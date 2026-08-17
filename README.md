@@ -31,9 +31,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=4C1D95&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=6D28D9&label=STARS"/>
+
 
 </div>
 
@@ -364,7 +362,7 @@ Worked as a Web Development Intern with a focus on building responsive static we
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shrishty2301&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -374,7 +372,7 @@ Worked as a Web Development Intern with a focus on building responsive static we
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D0B1F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Shrishty%20Pandya%20%E2%80%94%20Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrishty2301&bg_color=0D0B1F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Shrishty%20Pandya%20%E2%80%94%20Contribution%20Activity"/>
 
 </div>
 
@@ -384,7 +382,7 @@ Worked as a Web Development Intern with a focus on building responsive static we
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/shrishty2301/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
