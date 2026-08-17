@@ -450,15 +450,6 @@ Open To:
 
 ---
 
-## Footer
-
-<div align="center">
-
-> **Build thoughtfully. Engineer boldly. Create products that matter.**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0D0B1F&height=120&section=footer&animation=fadeIn"/>
 
 </div>
 ```
