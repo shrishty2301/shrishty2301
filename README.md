@@ -342,69 +342,19 @@ Worked as a Web Development Intern with a focus on building responsive static we
 
 ---
 
-## Certifications
 
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-No AWS certification details are listed in the provided profile.
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-No Oracle certification details are listed in the provided profile.
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications-6D28D9?style=for-the-badge&labelColor=111827"/>
-
-No NPTEL certification details are listed in the provided profile.
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Certifications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-No Cisco certification details are listed in the provided profile.
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrishty2301&show_icons=true&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=E5E7EB&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrishty2301&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=E5E7EB&langs_count=8"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D0B1F&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishty2301&hide_border=true&background=0D0B1F&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"/>
 
 </div>
 
